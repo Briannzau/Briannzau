@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Briannzau
 - 👀 I’m interested in SAAS
 - 🌱 I’m currently learning Python/R
-- 💞️ I’m looking to collaborate on Python/R
 - 📫 How to reach me Nzaubrian@gmail.com 
