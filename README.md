@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Briannzau
-- 👀 I’m interested in SAAS
-- 🌱 I’m currently learning Python/R
+- 🌱 I’m currently working on some fun side projects
 - 📫 How to reach me Nzaubrian@gmail.com 
